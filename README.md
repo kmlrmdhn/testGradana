@@ -1,3 +1,3 @@
 # testGradana
-npm install
-npx react-native run-android
+# npm install
+# npx react-native run-android
