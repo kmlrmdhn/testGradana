@@ -1,6 +1,6 @@
 # testGradana
-npm install
-Download Gradlew using android studio
-npx react-native run-android
+<p> npm install
+<p> Download Gradlew using android studio
+<p> npx react-native run-android
 
 
