@@ -64,6 +64,7 @@ export default function ({navigation}) {
       console.error(error);
     } finally {
       Alert.alert('berhasil');
+      setLoading(false)
     }
   };
 
@@ -190,6 +191,7 @@ export default function ({navigation}) {
                 backgroundColor: 'black',
                 width: 100,
                 height: 20,
+                padding:10,
                 alignItems: 'center',
               }}
               onPress={getPostApi}>
